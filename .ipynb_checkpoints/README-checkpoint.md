@@ -13,7 +13,7 @@ The dataset includes information on GDP and life expectancy for six countries. A
 - **Zimbabwe**: Lowest GDP \(\~\$9 billion\) and lowest life expectancy \(mean of 50 years\)\.
 - **Germany**: Highest life expectancy with a GDP of \~\$3 trillion\.
 
-![Country-LETC-GDP](/country-table.png)
+![Country-LETC-GDP](/img/country-table.png)
 
 # Analytics
 ## Life Expectancy Trends (2000-2014)
@@ -27,7 +27,7 @@ In contrast, other countries saw more gradual increases in life expectancy over 
 
 Overall, while Zimbabwe showed the most rapid growth in life expectancy, other nations experienced more stable and consistent increases during the same period.
 
-![LEABY-across-country](/figure1.png)
+![LEABY-across-country](/img/figure1.png)
 
 ![LEABY-increase-2000-2014-across-country](/img/table-1.png)
 
@@ -42,7 +42,7 @@ The United States, while still showing a healthy increase of 68.9%, had the slow
 
 In summary, all six nations saw their GDP increase over time, with China leading the charge in terms of percentage growth, while the United States had more modest gains.
 
-![GDP-across-country](/figure2.png)
+![GDP-across-country](/img/figure2.png)
 
 ![GDP-increase-2000-2014-across-country](/img/table-2.png)
 
@@ -59,7 +59,7 @@ Policy Implications: Policymakers can use this insight to prioritize investments
 .
 In summary, this graph underscores the importance of socioeconomic factors in determining life expectancy.
 
-![GDP-LE-rela](/figure3.png)
+![GDP-LE-rela](/img/figure3.png)
 
 ## GDP Trends Across Six Nations (2000-2014)
 
@@ -91,4 +91,4 @@ The graph displays the GDP trends from 2000 to 2014 for six countries: Chile, Ch
 
 This analysis helps in understanding how different countries have fared economically over time and can guide decisions related to economic policies and investments.
 
-![LEBY-2000-2014](/figure4.png)
+![LEBY-2000-2014](/img/figure4.png)
