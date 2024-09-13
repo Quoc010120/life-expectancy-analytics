@@ -6,13 +6,13 @@
 
 In this analysis, I served as a data researcher for the International Headquarter of Empathy And Logic (IHEAL). My goal was to explore the relationship between a country's GDP and its life expectancy, supporting the organization's belief that a nation's wealth influences the life expectancy of its people. The data was sourced from the World Bank and the World Health Organization.
 
-Key Question: Is there a correlation between a country's GDP and its life expectaddress socio-economic inequalities globally.
+Key Question: Is there a correlation between a country's GDP and its life expectancy, and how does this relationship address global socio-economic inequalities?
 
 ![cute-little-dog-impersonating-business-person](/img/background2.jpg)
 
 ## Data Summary
 
-First i will import library i will need to use in the future for analytics. After that, i import csv file by `read_csv`, then turn dataframe to a pivort table to have a clearly look at some data indicate.
+First I will import library I will need to use in the future for analytics. After that, I import csv file by `read_csv`, then turn dataframe to a pivort table to have a clearly look at some data indicate.
 The dataset includes information on GDP and life expectancy for six countries. A brief overview shows:
 
 - **United States**: Highest GDP \(\~\$14 trillion\) but not the highest life expectancy\.
