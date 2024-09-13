@@ -1,11 +1,17 @@
+![world-earth-draw](/img/background1.jpg)
+
 # Analysis of Life Expectancy and GDP Data from WHO
 
 ## Introduction
+
 In this analysis, I served as a data researcher for the International Headquarter of Empathy And Logic (IHEAL). My goal was to explore the relationship between a country's GDP and its life expectancy, supporting the organization's belief that a nation's wealth influences the life expectancy of its people. The data was sourced from the World Bank and the World Health Organization.
 
 Key Question: Is there a correlation between a country's GDP and its life expectaddress socio-economic inequalities globally.
 
+![cute-little-dog-impersonating-business-person](/img/background2.jpg)
+
 ## Data Summary
+
 First i will import library i will need to use in the future for analytics. After that, i import csv file by `read_csv`, then turn dataframe to a pivort table to have a clearly look at some data indicate.
 The dataset includes information on GDP and life expectancy for six countries. A brief overview shows:
 
@@ -16,7 +22,9 @@ The dataset includes information on GDP and life expectancy for six countries. A
 ![Country-LETC-GDP](/img/country-table.png)
 
 ## Analytics
+
 ### Life Expectancy Trends (2000-2014)
+
 Base on the `figure1` and table below Zimbabwe experienced the most dramatic rise in life expectancy, increasing by 28%, from around 40 years in 2000 to approximately 60 years by 2014. This notable improvement can be attributed to significant health interventions and recovery from the HIV/AIDS epidemic.
 
 In contrast, other countries saw more gradual increases in life expectancy over the same period. For example:
@@ -32,6 +40,7 @@ Overall, while Zimbabwe showed the most rapid growth in life expectancy, other n
 ![LEABY-increase-2000-2014-across-country](/img/table-1.png)
 
 ### GPD across nations
+
 Between 2000 and 2014, the GDP of the six nations analyzed in the provided dataset has generally increased, with varying degrees of growth. China exhibited the most remarkable rise, with a staggering 765.3% increase, elevating its GDP from approximately $1.2 trillion to over $10.4 trillion. This substantial growth underscores China's rapid economic expansion during this period.
 
 Chile also showed a significant increase, with a 235.2% rise in GDP, indicating strong economic performance. Zimbabwe, despite starting from a lower base, managed a 137.5% increase, showing recovery and growth, albeit with fluctuations in the earlier years.
@@ -51,10 +60,8 @@ In summary, all six nations saw their GDP increase over time, with China leading
 Base on the figure3 below we can draw some conclusion:
 
 - Positive Correlation: As life expectancy increases, GDP tends to rise as well. The data points cluster in the upper-right quadrant, suggesting that countries with higher life expectancy tend to have stronger economies.
-- 
-Socioeconomic Development: The positive correlation implies that improved living conditions, healthcare, and economic prosperity contribute to longer life expectancy. Countries with higher GDP invest more in healthcare infrastructure, education, and social services, leading to better health outcome.
-- 
-Policy Implications: Policymakers can use this insight to prioritize investments in healthcare, education, and economic development. Fostering economic growth can positively impact citizens’ well-being and life expectanc
+- Socioeconomic Development: The positive correlation implies that improved living conditions, healthcare, and economic prosperity contribute to longer life expectancy. Countries with higher GDP invest more in healthcare infrastructure, education, and social services, leading to better health outcome.
+- Policy Implications: Policymakers can use this insight to prioritize investments in healthcare, education, and economic development. Fostering economic growth can positively impact citizens’ well-being and life expectanc
 
 .
 In summary, this graph underscores the importance of socioeconomic factors in determining life expectancy.
@@ -68,7 +75,6 @@ The graph displays the GDP trends from 2000 to 2014 for six countries: Chile, Ch
 #### Variability Across Countries:
 
 - **China** demonstrated the most remarkable growth, with a 765.3% increase in GDP, growing from approximately $1.2 trillion to over $10.4 trillion. This rapid rise underscores China's economic expansion during this period.
-  
 - **Chile** also showed significant economic growth, with a 235.2% increase in GDP, indicating a strong economic performance over the years.
 
 - **Zimbabwe**, starting from a lower base, experienced a 137.5% increase in GDP. Despite early fluctuations, Zimbabwe's economy showed substantial recovery and growth by 2014.
@@ -80,7 +86,6 @@ The graph displays the GDP trends from 2000 to 2014 for six countries: Chile, Ch
 #### Economic Growth and Stability:
 
 - **China**'s and **Chile**'s rapid GDP growth are indicative of their dynamic economic environments and development policies during this period.
-  
 - **Zimbabwe**'s fluctuations in GDP highlight the challenges it faced but also its resilience and eventual economic recovery.
 
 - **Germany**, **Mexico**, and **The United States** showed more stable growth, with fewer fluctuations, indicating economic maturity and stability.
